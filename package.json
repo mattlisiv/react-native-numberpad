@@ -1,6 +1,6 @@
 {
   "name": "react-native-numberpad",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A numberpad designed for React Native",
   "main": "index.js",
   "scripts": {
